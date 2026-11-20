@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "title": "Baromètre des sanctions CNIL en France (2011–2026) : Compilation quantitative de 395 décisions publiques et analyse de la concentration financière des amendes RGPD",
+    "upload_type": "publication",
+    "publication_type": "report",
+    "description": "Compilation empirique exhaustive de 395 sanctions publiques prononcées par la CNIL (Commission nationale de l'informatique et des libertés) entre 2011 et le 10 septembre 2026, extraites de cnil.fr. Sur 268 sanctions pécuniaires chiffrées, le montant cumulé atteint 1 118 238 301 EUR (1 123 589 051 EUR avec liquidations d'astreinte), pour une amende médiane de 15 000 EUR et une amende maximale de 325 000 000 EUR prononcée en 2025. Deux dynamiques structurelles se dégagent : les manquements liés aux cookies et traceurs concentrent 907 074 000 EUR (81,1 % du montant total, sur 73 dossiers soit 18,5 %), tandis que le motif le plus fréquent en volume reste la sécurité et la violation de données (140 dossiers sur 395, soit 35,4 %). Les 10 plus grosses amendes concentrent 960 000 000 EUR (85,8 % du total). Jeu de données reproductible sans valeurs estimées sous licence CC-BY-4.0.",
+    "creators": [
+      {
+        "name": "Lueger, Stéphane",
+        "affiliation": "Site Digital Pro - Observatoire Numérique des TPE & Artisans"
+      },
+      {
+        "name": "Site Digital Pro",
+        "affiliation": "Site Digital Pro - Observatoire Numérique des TPE & Artisans"
+      }
+    ],
+    "access_right": "open",
+    "license": "CC-BY-4.0",
+    "keywords": [
+      "CNIL",
+      "RGPD",
+      "Sanctions administratives",
+      "Amendes RGPD",
+      "Cookies",
+      "Traceurs",
+      "Sécurité des données",
+      "France",
+      "Conformité numérique",
+      "TPE",
+      "PME"
+    ],
+    "language": "fra",
+    "dates": [
+      {
+        "start": "2011-01-01",
+        "end": "2026-09-10",
+        "type": "Collected",
+        "description": "Extraction automatique de l'ensemble des 16 tableaux annuels publiés sur cnil.fr (« Les sanctions prononcées par la CNIL ») au 10 septembre 2026"
+      }
+    ],
+    "related_identifiers": [
+      {
+        "identifier": "https://sitedigitalpro.com/barometre-sanctions-cnil/",
+        "relation": "isDocumentedBy",
+        "scheme": "url"
+      },
+      {
+        "identifier": "10.5281/zenodo.24284538",
+        "relation": "cites",
+        "scheme": "doi"
+      },
+      {
+        "identifier": "https://sitedigitalpro.com/mise-en-conformite-rgpd/",
+        "relation": "cites",
+        "scheme": "url"
+      },
+      {
+        "identifier": "https://github.com/snipe91/barometre-tpe-france",
+        "relation": "isSupplementedBy",
+        "scheme": "url"
+      }
+    ],
+    "notes": "Publié par Site Digital Pro (Stéphane Lueger — https://sitedigitalpro.com). Source officielle unique : cnil.fr au 10/09/2026. Aucun montant estimé ; licence CC-BY-4.0."
+  }
+}

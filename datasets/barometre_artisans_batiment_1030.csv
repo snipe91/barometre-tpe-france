@@ -1,0 +1,26 @@
+indicateur_id,pilier,libelle,sites_concernes,echantillon_total,pourcentage,ic_bas_95,ic_haut_95,methode_collecte
+siret,Pilier 4 — Conformité,Pas de numéro SIRET affiché,994,1030,96.5,95.2,97.5,DOM navigateur réel
+llms,Pilier 2 — Recommandation IA,Pas de fichier /llms.txt,857,1030,83.2,80.8,85.4,Requête HTTP directe
+a_un_formulaire,Pilier 3 — Conversion,A au moins un formulaire quelque part sur le site,839,1030,81.5,79.0,83.7,DOM navigateur réel
+jsonld_metier,Pilier 2 — Recommandation IA,"Pas de balisage d'activité (JSON-LD métier, ville, téléphone)",796,1030,77.3,74.6,79.7,DOM navigateur réel
+politique,Pilier 4 — Conformité,Pas de politique de confidentialité,657,1030,63.8,60.8,66.7,DOM navigateur réel
+n_mailto,Pilier 3 — Conversion,Aucun lien e-mail (mailto:),636,1030,61.7,58.7,64.7,DOM navigateur réel
+adresse,Pilier 4 — Conformité,Pas d'adresse postale complète,478,1030,46.4,43.4,49.5,DOM navigateur réel
+n_tel,Pilier 3 — Conversion,Aucun numéro cliquable depuis un téléphone (tel:),416,1030,40.4,37.4,43.4,DOM navigateur réel
+mentions,Pilier 4 — Conformité,Pas de mentions légales,276,1030,26.8,24.2,29.6,DOM navigateur réel
+cta,Pilier 3 — Conversion,Aucun appel à l'action visible,275,1030,26.7,24.1,29.5,DOM navigateur réel
+canonical,Pilier 1 — Google SEO,"Pas d'URL canonique (<link rel=""canonical"">)",211,1030,20.5,18.1,23.1,DOM navigateur réel
+n_champs,Pilier 3 — Conversion,Aucun champ de formulaire sur la page d'accueil testée,192,1030,18.6,16.4,21.1,DOM navigateur réel
+deborde,Pilier 3 — Ergonomie mobile,Contenu qui déborde horizontalement sur mobile,188,1030,18.3,16.0,20.7,DOM navigateur réel
+page_formulaire,Pilier 3 — Conversion,N'a aucune page avec formulaire de contact,183,1030,17.8,15.6,20.2,DOM navigateur réel
+sitemap,Pilier 1 — Google SEO,Pas de sitemap.xml déclaré,177,1030,17.2,15.0,19.6,Requête HTTP directe
+meta_desc,Pilier 1 — Google SEO,Pas de meta description,170,1030,16.5,14.4,18.9,DOM navigateur réel
+h1_count,Pilier 1 — Google SEO,Plusieurs balises H1 sur la même page,156,1030,15.1,13.1,17.5,DOM navigateur réel
+robots,Pilier 1 — Google SEO,Pas de fichier robots.txt accessible,131,1030,12.7,10.8,14.9,Requête HTTP directe
+lang,Pilier 1 — Accessibilité,Pas d'attribut lang sur la balise html,47,1030,4.6,3.4,6.0,DOM navigateur réel
+title,Pilier 1 — Google SEO,Pas de balise <title>,9,1030,0.9,0.5,1.7,DOM navigateur réel
+https,Pilier 4 — Conformité,Site non servi en HTTPS,1,1030,0.1,0.0,0.5,Requête HTTP directe
+title_longueur_ok,Pilier 1 — Google SEO,Balise <title> de longueur correcte (30-60 caractères),,1030,45.8,,,Page étude artisans
+meta_desc_longueur_ok,Pilier 1 — Google SEO,Meta description de longueur correcte (120-160 caractères),,1030,50.2,,,Page étude artisans
+au_moins_deux_h2,Pilier 1 — Google SEO,Au moins deux balises H2 structurant la page,,1030,84.2,,,Page étude artisans
+jsonld_technique_present,Pilier 2 — Recommandation IA,Données structurées JSON-LD présentes (tout type confondu),,1030,70.5,,,Page étude artisans

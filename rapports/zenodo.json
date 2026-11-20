@@ -1,0 +1,64 @@
+{
+  "metadata": {
+    "doi": "10.5281/zenodo.24284538",
+    "title": "Baromètre 2026-2027 de la conformité numérique, technique et RGPD des TPE françaises : Étude empirique sur 600 entreprises (OpenStreetMap / France)",
+    "upload_type": "publication",
+    "publication_type": "report",
+    "description": "Étude empirique quantitative mesurant la conformité légale (RGPD, mentions légales), la disponibilité et les performances techniques des sites web de très petites entreprises (TPE) et artisans en France métropolitaine. Menée sur un échantillon aléatoire représentatif de 600 domaines issus d'un corpus initial de 8 653 établissements répertoriés sur OpenStreetMap. Résultats clés : 52,9 % des sites audités n'affichent aucune politique de confidentialité conforme au RGPD, 34,6 % sont dépourvus de mentions légales obligatoires (LCEN), et 21,5 % présentent un taux d'indisponibilité ou d'erreur critique de connexion. Analyse des répercussions directes sur le référencement local (Google Pack Local) et la recommandation par les moteurs d'intelligence artificielle générative (GEO / Generative Engine Optimization - ChatGPT Search, Perplexity, Google AI Overviews).",
+    "creators": [
+      {
+        "name": "Site Digital Pro",
+        "affiliation": "Site Digital Pro - Observatoire Numérique des TPE & Artisans",
+        "orcid": ""
+      }
+    ],
+    "access_right": "open",
+    "license": "CC-BY-4.0",
+    "keywords": [
+      "RGPD",
+      "Conformité numérique",
+      "TPE",
+      "PME",
+      "Artisans",
+      "SEO local",
+      "GEO",
+      "Generative Engine Optimization",
+      "Google AI Overviews",
+      "OpenStreetMap",
+      "France",
+      "Cybersécurité TPE"
+    ],
+    "language": "fra",
+    "dates": [
+      {
+        "start": "2026-09-10",
+        "end": "2026-11-16",
+        "type": "Collected",
+        "description": "Collecte de données par crawl direct et analyse d'en-têtes HTTP"
+      }
+    ],
+    "related_identifiers": [
+      {
+        "identifier": "https://sitedigitalpro.com/barometre-tpe-2026/",
+        "relation": "isDocumentedBy",
+        "scheme": "url"
+      },
+      {
+        "identifier": "https://sitedigitalpro.com/barometre-artisans-batiment/",
+        "relation": "cites",
+        "scheme": "url"
+      },
+      {
+        "identifier": "https://sitedigitalpro.com/barometre-sanctions-cnil/",
+        "relation": "cites",
+        "scheme": "url"
+      },
+      {
+        "identifier": "https://github.com/snipe91/barometre-tpe-france",
+        "relation": "isSupplementedBy",
+        "scheme": "url"
+      }
+    ],
+    "notes": "DOI Zenodo attribué : 10.5281/zenodo.24284538 (https://doi.org/10.5281/zenodo.24284538). Publié par le laboratoire d'analyse de données de Site Digital Pro (https://sitedigitalpro.com). Données ouvertes reproductibles sous licence Creative Commons Attribution 4.0 International."
+  }
+}

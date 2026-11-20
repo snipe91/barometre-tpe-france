@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "title": "Baromètre 2026-2027 des sites web des artisans du bâtiment en France : Audit empirique en navigateur réel sur 1 030 entreprises (visibilité Google, GEO/IA, conversion et conformité)",
+    "upload_type": "publication",
+    "publication_type": "report",
+    "description": "Étude empirique quantitative évaluant la capacité réelle des sites web d'artisans du bâtiment français à générer des contacts qualifiés et à être recommandés par les moteurs de recherche et assistants IA. Échantillon aléatoire de 1 030 sites répondants issus de 1 525 entreprises artisanales extraites d'OpenStreetMap France, analysés dans un navigateur réel (DOM rendu, marge d'erreur ± 2,6 à ± 3,0 points à IC 95 %, mesure du 29 septembre 2026). Principaux résultats : 77,3 % (796/1 030) ne déclarent pas leur activité en données structurées JSON-LD (métier, ville, téléphone), 83,2 % (857/1 030) n'ont pas de fichier /llms.txt, 40,4 % (416/1 030) n'affichent aucun lien téléphone cliquable (tel:), 17,8 % (183/1 030) n'ont aucune page avec formulaire de contact, 63,8 % (657/1 030) n'affichent aucune politique de confidentialité et 26,8 % (276/1 030) omettent les mentions légales. Comparatif sur 10 corps de métier OSM et sous-corpus de 226 sites issus des résultats Google.",
+    "creators": [
+      {
+        "name": "Lueger, Stéphane",
+        "affiliation": "Site Digital Pro - Observatoire Numérique des TPE & Artisans"
+      },
+      {
+        "name": "Site Digital Pro",
+        "affiliation": "Site Digital Pro - Observatoire Numérique des TPE & Artisans"
+      }
+    ],
+    "access_right": "open",
+    "license": "CC-BY-4.0",
+    "keywords": [
+      "Artisans du bâtiment",
+      "BTP",
+      "SEO local",
+      "GEO",
+      "Generative Engine Optimization",
+      "Schema.org",
+      "LocalBusiness",
+      "llms.txt",
+      "RGPD",
+      "OpenStreetMap",
+      "France",
+      "Accessibilité mobile"
+    ],
+    "language": "fra",
+    "dates": [
+      {
+        "start": "2026-09-29",
+        "end": "2026-09-30",
+        "type": "Collected",
+        "description": "Chargement des 1 030 sites dans un navigateur réel (inspection du DOM rendu) et vérification des fichiers /llms.txt, robots.txt et sitemap.xml"
+      }
+    ],
+    "related_identifiers": [
+      {
+        "identifier": "https://sitedigitalpro.com/barometre-artisans-batiment/",
+        "relation": "isDocumentedBy",
+        "scheme": "url"
+      },
+      {
+        "identifier": "10.5281/zenodo.24284538",
+        "relation": "cites",
+        "scheme": "doi"
+      },
+      {
+        "identifier": "https://sitedigitalpro.com/barometre-tpe-2026/",
+        "relation": "cites",
+        "scheme": "url"
+      },
+      {
+        "identifier": "https://github.com/snipe91/barometre-tpe-france",
+        "relation": "isSupplementedBy",
+        "scheme": "url"
+      }
+    ],
+    "notes": "Publié par Site Digital Pro (Stéphane Lueger — https://sitedigitalpro.com). Aucun chiffre estimé ; données agrégées sans dénomination d'entreprise sous licence CC-BY-4.0."
+  }
+}

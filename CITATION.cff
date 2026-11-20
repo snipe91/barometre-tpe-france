@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "Si vous réutilisez ces jeux de données ou rapports, veuillez citer cette étude comme indiqué ci-dessous."
+title: "Baromètre 2026-2027 des TPE et Artisans en France : Conformité RGPD, SEO local, IA et Sanctions CNIL"
+authors:
+  - family-names: Lueger
+    given-names: Stéphane
+    affiliation: "Site Digital Pro - Observatoire Numérique des TPE & Artisans"
+  - name: "Site Digital Pro"
+version: "1.0.0"
+doi: "10.5281/zenodo.24284538"
+date-released: "2026-11-16"
+license: "CC-BY-4.0"
+url: "https://sitedigitalpro.com/barometre-tpe-2026/"
+repository-code: "https://github.com/snipe91/barometre-tpe-france"
+keywords:
+  - rgpd
+  - cnil
+  - tpe
+  - artisans
+  - seo-local
+  - geo
+  - openstreetmap
+  - france
+references:
+  - type: report
+    title: "Les sites des artisans du bâtiment amènent-ils vraiment des clients ? (1 030 sites)"
+    url: "https://sitedigitalpro.com/barometre-artisans-batiment/"
+  - type: report
+    title: "Baromètre des sanctions CNIL 2011-2026 (395 sanctions)"
+    url: "https://sitedigitalpro.com/barometre-sanctions-cnil/"
